@@ -37,7 +37,7 @@ Cryptocurrency Mining Dashboard
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/twclkW2BURU">
+- <a href="https://www.youtube.com/watch?v=VwsuK8qbiRU">
 			Youtube
 		</a> 
 
